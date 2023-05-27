@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on Blog Application API using Spring Boot<br>🌱 I’m currently learning Spring Boot<br>👨‍💻 All of my projects are available at https://nehapatil104.github.io/My-Portfolio/<br>📫 How to reach me nehaspatil125000@gmail.com
+<h1 align="center">Hi 🙋‍♀️, I'm Neha Patil</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehapatil104&label=Profile%20views&color=0e75b6&style=flat" alt="nehapatil104" /> </p>
+
+- 🔭 I’m currently working on **Blog Application API's**
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://nehapatil104.github.io/My-Portfolio/](https://nehapatil104.github.io/My-Portfolio/)
+
+- 📫 How to reach me **nehaspatil125000@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NehaPatil104) 
@@ -11,9 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NehaPatil104&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NehaPatil104&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatil104&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NehaPatil104&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NehaPatil104&limit=5&theme=dracula&combine_all_yearly_contributions=true)
